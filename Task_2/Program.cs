@@ -2,7 +2,7 @@
 
 //int n = array.Length;   //Количество элементов массива
 
-int find = 55;
+int find = 222;
 
 int index = 0;
 
